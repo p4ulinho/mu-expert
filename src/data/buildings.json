@@ -1,0 +1,2448 @@
+{
+    "main": {
+        "1": {
+            "wood": 90,
+            "stone": 80,
+            "iron": 70,
+            "pop": 5,
+            "points": 10
+        },
+        "2": {
+            "wood": 113,
+            "stone": 102,
+            "iron": 88,
+            "pop": 1,
+            "points": 2
+        },
+        "3": {
+            "wood": 143,
+            "stone": 130,
+            "iron": 111,
+            "pop": 1,
+            "points": 2
+        },
+        "4": {
+            "wood": 180,
+            "stone": 166,
+            "iron": 140,
+            "pop": 1,
+            "points": 3
+        },
+        "5": {
+            "wood": 227,
+            "stone": 211,
+            "iron": 176,
+            "pop": 1,
+            "points": 4
+        },
+        "6": {
+            "wood": 286,
+            "stone": 270,
+            "iron": 222,
+            "pop": 2,
+            "points": 4
+        },
+        "7": {
+            "wood": 360,
+            "stone": 344,
+            "iron": 280,
+            "pop": 2,
+            "points": 5
+        },
+        "8": {
+            "wood": 454,
+            "stone": 438,
+            "iron": 353,
+            "pop": 2,
+            "points": 6
+        },
+        "9": {
+            "wood": 572,
+            "stone": 559,
+            "iron": 445,
+            "pop": 3,
+            "points": 7
+        },
+        "10": {
+            "wood": 720,
+            "stone": 712,
+            "iron": 560,
+            "pop": 3,
+            "points": 9
+        },
+        "11": {
+            "wood": 908,
+            "stone": 908,
+            "iron": 706,
+            "pop": 3,
+            "points": 10
+        },
+        "12": {
+            "wood": 1144,
+            "stone": 1158,
+            "iron": 890,
+            "pop": 4,
+            "points": 12
+        },
+        "13": {
+            "wood": 1441,
+            "stone": 1476,
+            "iron": 1121,
+            "pop": 5,
+            "points": 15
+        },
+        "14": {
+            "wood": 1816,
+            "stone": 1882,
+            "iron": 1412,
+            "pop": 5,
+            "points": 18
+        },
+        "15": {
+            "wood": 2288,
+            "stone": 2400,
+            "iron": 1779,
+            "pop": 7,
+            "points": 21
+        },
+        "16": {
+            "wood": 2883,
+            "stone": 3060,
+            "iron": 2242,
+            "pop": 8,
+            "points": 26
+        },
+        "17": {
+            "wood": 3632,
+            "stone": 3902,
+            "iron": 2825,
+            "pop": 9,
+            "points": 31
+        },
+        "18": {
+            "wood": 4577,
+            "stone": 4975,
+            "iron": 3560,
+            "pop": 10,
+            "points": 37
+        },
+        "19": {
+            "wood": 5767,
+            "stone": 6343,
+            "iron": 4485,
+            "pop": 12,
+            "points": 44
+        },
+        "20": {
+            "wood": 7266,
+            "stone": 8087,
+            "iron": 5651,
+            "pop": 15,
+            "points": 53
+        },
+        "21": {
+            "wood": 9155,
+            "stone": 10311,
+            "iron": 7120,
+            "pop": 17,
+            "points": 64
+        },
+        "22": {
+            "wood": 11535,
+            "stone": 13146,
+            "iron": 8972,
+            "pop": 19,
+            "points": 77
+        },
+        "23": {
+            "wood": 14534,
+            "stone": 16762,
+            "iron": 11304,
+            "pop": 23,
+            "points": 92
+        },
+        "24": {
+            "wood": 18313,
+            "stone": 21371,
+            "iron": 14244,
+            "pop": 27,
+            "points": 110
+        },
+        "25": {
+            "wood": 23075,
+            "stone": 27248,
+            "iron": 17947,
+            "pop": 31,
+            "points": 133
+        },
+        "26": {
+            "wood": 29074,
+            "stone": 34741,
+            "iron": 22613,
+            "pop": 37,
+            "points": 159
+        },
+        "27": {
+            "wood": 36633,
+            "stone": 44295,
+            "iron": 28493,
+            "pop": 43,
+            "points": 191
+        },
+        "28": {
+            "wood": 46158,
+            "stone": 56476,
+            "iron": 35901,
+            "pop": 51,
+            "points": 229
+        },
+        "29": {
+            "wood": 58159,
+            "stone": 72007,
+            "iron": 45235,
+            "pop": 59,
+            "points": 274
+        },
+        "30": {
+            "wood": 73280,
+            "stone": 91809,
+            "iron": 56996,
+            "pop": 69,
+            "points": 330
+        }
+    },
+    "barracks": {
+        "1": {
+            "wood": 200,
+            "stone": 170,
+            "iron": 90,
+            "pop": 7,
+            "points": 16
+        },
+        "2": {
+            "wood": 252,
+            "stone": 218,
+            "iron": 113,
+            "pop": 1,
+            "points": 3
+        },
+        "3": {
+            "wood": 318,
+            "stone": 279,
+            "iron": 143,
+            "pop": 2,
+            "points": 4
+        },
+        "4": {
+            "wood": 400,
+            "stone": 357,
+            "iron": 180,
+            "pop": 1,
+            "points": 5
+        },
+        "5": {
+            "wood": 504,
+            "stone": 456,
+            "iron": 227,
+            "pop": 2,
+            "points": 5
+        },
+        "6": {
+            "wood": 635,
+            "stone": 584,
+            "iron": 286,
+            "pop": 2,
+            "points": 7
+        },
+        "7": {
+            "wood": 800,
+            "stone": 748,
+            "iron": 360,
+            "pop": 3,
+            "points": 8
+        },
+        "8": {
+            "wood": 1008,
+            "stone": 957,
+            "iron": 454,
+            "pop": 3,
+            "points": 9
+        },
+        "9": {
+            "wood": 1271,
+            "stone": 1225,
+            "iron": 572,
+            "pop": 4,
+            "points": 12
+        },
+        "10": {
+            "wood": 1601,
+            "stone": 1568,
+            "iron": 720,
+            "pop": 4,
+            "points": 14
+        },
+        "11": {
+            "wood": 2017,
+            "stone": 2007,
+            "iron": 908,
+            "pop": 5,
+            "points": 16
+        },
+        "12": {
+            "wood": 2542,
+            "stone": 2569,
+            "iron": 1144,
+            "pop": 5,
+            "points": 20
+        },
+        "13": {
+            "wood": 3202,
+            "stone": 3288,
+            "iron": 1441,
+            "pop": 7,
+            "points": 24
+        },
+        "14": {
+            "wood": 4035,
+            "stone": 4209,
+            "iron": 1816,
+            "pop": 8,
+            "points": 28
+        },
+        "15": {
+            "wood": 5084,
+            "stone": 5388,
+            "iron": 2288,
+            "pop": 9,
+            "points": 34
+        },
+        "16": {
+            "wood": 6406,
+            "stone": 6896,
+            "iron": 2883,
+            "pop": 11,
+            "points": 42
+        },
+        "17": {
+            "wood": 8072,
+            "stone": 8827,
+            "iron": 3632,
+            "pop": 12,
+            "points": 49
+        },
+        "18": {
+            "wood": 10170,
+            "stone": 11298,
+            "iron": 4577,
+            "pop": 15,
+            "points": 59
+        },
+        "19": {
+            "wood": 12814,
+            "stone": 14462,
+            "iron": 5767,
+            "pop": 17,
+            "points": 71
+        },
+        "20": {
+            "wood": 16146,
+            "stone": 18511,
+            "iron": 7266,
+            "pop": 20,
+            "points": 85
+        },
+        "21": {
+            "wood": 20344,
+            "stone": 23695,
+            "iron": 9155,
+            "pop": 24,
+            "points": 102
+        },
+        "22": {
+            "wood": 25634,
+            "stone": 30329,
+            "iron": 11535,
+            "pop": 27,
+            "points": 123
+        },
+        "23": {
+            "wood": 32298,
+            "stone": 38821,
+            "iron": 14534,
+            "pop": 32,
+            "points": 147
+        },
+        "24": {
+            "wood": 40696,
+            "stone": 49691,
+            "iron": 18313,
+            "pop": 38,
+            "points": 177
+        },
+        "25": {
+            "wood": 51277,
+            "stone": 63605,
+            "iron": 23075,
+            "pop": 44,
+            "points": 212
+        }
+    },
+    "stable": {
+        "1": {
+            "wood": 270,
+            "stone": 240,
+            "iron": 260,
+            "pop": 8,
+            "points": 20
+        },
+        "2": {
+            "wood": 340,
+            "stone": 307,
+            "iron": 328,
+            "pop": 1,
+            "points": 4
+        },
+        "3": {
+            "wood": 429,
+            "stone": 393,
+            "iron": 413,
+            "pop": 2,
+            "points": 5
+        },
+        "4": {
+            "wood": 540,
+            "stone": 503,
+            "iron": 520,
+            "pop": 2,
+            "points": 6
+        },
+        "5": {
+            "wood": 681,
+            "stone": 644,
+            "iron": 655,
+            "pop": 2,
+            "points": 6
+        },
+        "6": {
+            "wood": 857,
+            "stone": 825,
+            "iron": 826,
+            "pop": 3,
+            "points": 9
+        },
+        "7": {
+            "wood": 1080,
+            "stone": 1056,
+            "iron": 1040,
+            "pop": 3,
+            "points": 10
+        },
+        "8": {
+            "wood": 1361,
+            "stone": 1351,
+            "iron": 1311,
+            "pop": 3,
+            "points": 12
+        },
+        "9": {
+            "wood": 1715,
+            "stone": 1729,
+            "iron": 1652,
+            "pop": 4,
+            "points": 14
+        },
+        "10": {
+            "wood": 2161,
+            "stone": 2214,
+            "iron": 2081,
+            "pop": 5,
+            "points": 17
+        },
+        "11": {
+            "wood": 2723,
+            "stone": 2833,
+            "iron": 2622,
+            "pop": 5,
+            "points": 21
+        },
+        "12": {
+            "wood": 3431,
+            "stone": 3627,
+            "iron": 3304,
+            "pop": 7,
+            "points": 25
+        },
+        "13": {
+            "wood": 4323,
+            "stone": 4642,
+            "iron": 4163,
+            "pop": 8,
+            "points": 29
+        },
+        "14": {
+            "wood": 5447,
+            "stone": 5942,
+            "iron": 5246,
+            "pop": 9,
+            "points": 36
+        },
+        "15": {
+            "wood": 6864,
+            "stone": 7606,
+            "iron": 6609,
+            "pop": 10,
+            "points": 43
+        },
+        "16": {
+            "wood": 8648,
+            "stone": 9736,
+            "iron": 8328,
+            "pop": 12,
+            "points": 51
+        },
+        "17": {
+            "wood": 10897,
+            "stone": 12462,
+            "iron": 10493,
+            "pop": 15,
+            "points": 62
+        },
+        "18": {
+            "wood": 13730,
+            "stone": 15951,
+            "iron": 13221,
+            "pop": 16,
+            "points": 74
+        },
+        "19": {
+            "wood": 17300,
+            "stone": 20417,
+            "iron": 16659,
+            "pop": 20,
+            "points": 88
+        },
+        "20": {
+            "wood": 21797,
+            "stone": 26134,
+            "iron": 20990,
+            "pop": 23,
+            "points": 107
+        }
+    },
+    "garage": {
+        "1": {
+            "wood": 300,
+            "stone": 240,
+            "iron": 260,
+            "pop": 8,
+            "points": 24
+        },
+        "2": {
+            "wood": 378,
+            "stone": 307,
+            "iron": 328,
+            "pop": 1,
+            "points": 5
+        },
+        "3": {
+            "wood": 476,
+            "stone": 393,
+            "iron": 413,
+            "pop": 2,
+            "points": 6
+        },
+        "4": {
+            "wood": 600,
+            "stone": 503,
+            "iron": 520,
+            "pop": 2,
+            "points": 6
+        },
+        "5": {
+            "wood": 756,
+            "stone": 644,
+            "iron": 655,
+            "pop": 2,
+            "points": 9
+        },
+        "6": {
+            "wood": 953,
+            "stone": 825,
+            "iron": 826,
+            "pop": 3,
+            "points": 10
+        },
+        "7": {
+            "wood": 1200,
+            "stone": 1056,
+            "iron": 1040,
+            "pop": 3,
+            "points": 12
+        },
+        "8": {
+            "wood": 1513,
+            "stone": 1351,
+            "iron": 1311,
+            "pop": 3,
+            "points": 14
+        },
+        "9": {
+            "wood": 1906,
+            "stone": 1729,
+            "iron": 1652,
+            "pop": 4,
+            "points": 17
+        },
+        "10": {
+            "wood": 2401,
+            "stone": 2214,
+            "iron": 2081,
+            "pop": 5,
+            "points": 21
+        },
+        "11": {
+            "wood": 3026,
+            "stone": 2833,
+            "iron": 2622,
+            "pop": 5,
+            "points": 25
+        },
+        "12": {
+            "wood": 3812,
+            "stone": 3627,
+            "iron": 3304,
+            "pop": 7,
+            "points": 29
+        },
+        "13": {
+            "wood": 4804,
+            "stone": 4642,
+            "iron": 4163,
+            "pop": 8,
+            "points": 36
+        },
+        "14": {
+            "wood": 6053,
+            "stone": 5942,
+            "iron": 5246,
+            "pop": 9,
+            "points": 43
+        },
+        "15": {
+            "wood": 7626,
+            "stone": 7606,
+            "iron": 6609,
+            "pop": 10,
+            "points": 51
+        }
+    },
+    "church": {
+        "1": {
+            "wood": 16000,
+            "stone": 20000,
+            "iron": 5000,
+            "pop": 5000,
+            "points": 10
+        },
+        "2": {
+            "wood": 20160,
+            "stone": 25600,
+            "iron": 6300,
+            "pop": 2750,
+            "points": 2
+        },
+        "3": {
+            "wood": 25402,
+            "stone": 32768,
+            "iron": 7938,
+            "pop": 4263,
+            "points": 2
+        }
+    },
+    "church_f": {
+        "1": {
+            "wood": 160,
+            "stone": 200,
+            "iron": 50,
+            "pop": 5,
+            "points": 10
+        }
+    },
+    "watchtower": {
+        "1": {
+            "wood": 12000,
+            "stone": 14000,
+            "iron": 10000,
+            "pop": 500,
+            "points": 42
+        },
+        "2": {
+            "wood": 14040,
+            "stone": 16380,
+            "iron": 11800,
+            "pop": 90,
+            "points": 8
+        },
+        "3": {
+            "wood": 16427,
+            "stone": 19165,
+            "iron": 13924,
+            "pop": 106,
+            "points": 10
+        },
+        "4": {
+            "wood": 19219,
+            "stone": 22423,
+            "iron": 16430,
+            "pop": 126,
+            "points": 13
+        },
+        "5": {
+            "wood": 22487,
+            "stone": 26234,
+            "iron": 19388,
+            "pop": 147,
+            "points": 14
+        },
+        "6": {
+            "wood": 26309,
+            "stone": 30694,
+            "iron": 22878,
+            "pop": 175,
+            "points": 18
+        },
+        "7": {
+            "wood": 30782,
+            "stone": 35912,
+            "iron": 26996,
+            "pop": 206,
+            "points": 20
+        },
+        "8": {
+            "wood": 36015,
+            "stone": 42017,
+            "iron": 31855,
+            "pop": 243,
+            "points": 25
+        },
+        "9": {
+            "wood": 42137,
+            "stone": 49160,
+            "iron": 37589,
+            "pop": 286,
+            "points": 31
+        },
+        "10": {
+            "wood": 49301,
+            "stone": 57518,
+            "iron": 44355,
+            "pop": 339,
+            "points": 36
+        },
+        "11": {
+            "wood": 57682,
+            "stone": 67296,
+            "iron": 52338,
+            "pop": 399,
+            "points": 43
+        },
+        "12": {
+            "wood": 67488,
+            "stone": 78736,
+            "iron": 61759,
+            "pop": 471,
+            "points": 52
+        },
+        "13": {
+            "wood": 78961,
+            "stone": 92121,
+            "iron": 72876,
+            "pop": 556,
+            "points": 62
+        },
+        "14": {
+            "wood": 92384,
+            "stone": 107782,
+            "iron": 85994,
+            "pop": 656,
+            "points": 75
+        },
+        "15": {
+            "wood": 108089,
+            "stone": 126104,
+            "iron": 101472,
+            "pop": 774,
+            "points": 90
+        },
+        "16": {
+            "wood": 126465,
+            "stone": 147542,
+            "iron": 119737,
+            "pop": 913,
+            "points": 108
+        },
+        "17": {
+            "wood": 147964,
+            "stone": 172624,
+            "iron": 141290,
+            "pop": 1078,
+            "points": 130
+        },
+        "18": {
+            "wood": 173117,
+            "stone": 201970,
+            "iron": 166722,
+            "pop": 1271,
+            "points": 155
+        },
+        "19": {
+            "wood": 202547,
+            "stone": 236000,
+            "iron": 196733,
+            "pop": 1501,
+            "points": 186
+        },
+        "20": {
+            "wood": 236981,
+            "stone": 276477,
+            "iron": 232144,
+            "pop": 1770,
+            "points": 224
+        }
+    },
+    "snob": {
+        "1": {
+            "wood": 15000,
+            "stone": 25000,
+            "iron": 10000,
+            "pop": 80,
+            "points": 512
+        },
+        "2": {
+            "wood": 30000,
+            "stone": 50000,
+            "iron": 20000,
+            "pop": 14,
+            "points": 0
+        },
+        "3": {
+            "wood": 60000,
+            "stone": 100000,
+            "iron": 40000,
+            "pop": 16,
+            "points": 0
+        }
+    },
+    "smith": {
+        "1": {
+            "wood": 220,
+            "stone": 180,
+            "iron": 240,
+            "pop": 20,
+            "points": 19
+        },
+        "2": {
+            "wood": 277,
+            "stone": 230,
+            "iron": 302,
+            "pop": 3,
+            "points": 4
+        },
+        "3": {
+            "wood": 349,
+            "stone": 293,
+            "iron": 381,
+            "pop": 4,
+            "points": 4
+        },
+        "4": {
+            "wood": 440,
+            "stone": 373,
+            "iron": 480,
+            "pop": 5,
+            "points": 6
+        },
+        "5": {
+            "wood": 555,
+            "stone": 476,
+            "iron": 605,
+            "pop": 5,
+            "points": 6
+        },
+        "6": {
+            "wood": 699,
+            "stone": 606,
+            "iron": 762,
+            "pop": 7,
+            "points": 8
+        },
+        "7": {
+            "wood": 880,
+            "stone": 773,
+            "iron": 960,
+            "pop": 7,
+            "points": 10
+        },
+        "8": {
+            "wood": 1109,
+            "stone": 986,
+            "iron": 1210,
+            "pop": 9,
+            "points": 11
+        },
+        "9": {
+            "wood": 1398,
+            "stone": 1257,
+            "iron": 1525,
+            "pop": 10,
+            "points": 14
+        },
+        "10": {
+            "wood": 1761,
+            "stone": 1603,
+            "iron": 1921,
+            "pop": 12,
+            "points": 16
+        },
+        "11": {
+            "wood": 2219,
+            "stone": 2043,
+            "iron": 2421,
+            "pop": 14,
+            "points": 20
+        },
+        "12": {
+            "wood": 2796,
+            "stone": 2605,
+            "iron": 3050,
+            "pop": 16,
+            "points": 23
+        },
+        "13": {
+            "wood": 3523,
+            "stone": 3322,
+            "iron": 3843,
+            "pop": 20,
+            "points": 28
+        },
+        "14": {
+            "wood": 4439,
+            "stone": 4236,
+            "iron": 4842,
+            "pop": 22,
+            "points": 34
+        },
+        "15": {
+            "wood": 5593,
+            "stone": 5400,
+            "iron": 6101,
+            "pop": 26,
+            "points": 41
+        },
+        "16": {
+            "wood": 7047,
+            "stone": 6885,
+            "iron": 7687,
+            "pop": 31,
+            "points": 49
+        },
+        "17": {
+            "wood": 8879,
+            "stone": 8779,
+            "iron": 9686,
+            "pop": 36,
+            "points": 58
+        },
+        "18": {
+            "wood": 11187,
+            "stone": 11193,
+            "iron": 12204,
+            "pop": 42,
+            "points": 71
+        },
+        "19": {
+            "wood": 14096,
+            "stone": 14271,
+            "iron": 15377,
+            "pop": 49,
+            "points": 84
+        },
+        "20": {
+            "wood": 17761,
+            "stone": 18196,
+            "iron": 19375,
+            "pop": 57,
+            "points": 101
+        }
+    },
+    "place": {
+        "1": {
+            "wood": 10,
+            "stone": 40,
+            "iron": 30,
+            "pop": 0,
+            "points": 0
+        }
+    },
+    "statue": {
+        "1": {
+            "wood": 220,
+            "stone": 220,
+            "iron": 220,
+            "pop": 10,
+            "points": 24
+        }
+    },
+    "market": {
+        "1": {
+            "wood": 100,
+            "stone": 100,
+            "iron": 100,
+            "pop": 20,
+            "points": 10
+        },
+        "2": {
+            "wood": 126,
+            "stone": 128,
+            "iron": 126,
+            "pop": 3,
+            "points": 2
+        },
+        "3": {
+            "wood": 159,
+            "stone": 163,
+            "iron": 159,
+            "pop": 4,
+            "points": 2
+        },
+        "4": {
+            "wood": 200,
+            "stone": 207,
+            "iron": 200,
+            "pop": 5,
+            "points": 3
+        },
+        "5": {
+            "wood": 252,
+            "stone": 264,
+            "iron": 252,
+            "pop": 5,
+            "points": 4
+        },
+        "6": {
+            "wood": 318,
+            "stone": 337,
+            "iron": 318,
+            "pop": 7,
+            "points": 4
+        },
+        "7": {
+            "wood": 400,
+            "stone": 430,
+            "iron": 400,
+            "pop": 7,
+            "points": 5
+        },
+        "8": {
+            "wood": 504,
+            "stone": 548,
+            "iron": 504,
+            "pop": 9,
+            "points": 6
+        },
+        "9": {
+            "wood": 635,
+            "stone": 698,
+            "iron": 635,
+            "pop": 10,
+            "points": 7
+        },
+        "10": {
+            "wood": 800,
+            "stone": 890,
+            "iron": 800,
+            "pop": 12,
+            "points": 9
+        },
+        "11": {
+            "wood": 1009,
+            "stone": 1135,
+            "iron": 1009,
+            "pop": 14,
+            "points": 10
+        },
+        "12": {
+            "wood": 1271,
+            "stone": 1447,
+            "iron": 1271,
+            "pop": 16,
+            "points": 12
+        },
+        "13": {
+            "wood": 1601,
+            "stone": 1846,
+            "iron": 1601,
+            "pop": 20,
+            "points": 15
+        },
+        "14": {
+            "wood": 2018,
+            "stone": 2353,
+            "iron": 2018,
+            "pop": 22,
+            "points": 18
+        },
+        "15": {
+            "wood": 2542,
+            "stone": 3000,
+            "iron": 2542,
+            "pop": 26,
+            "points": 21
+        },
+        "16": {
+            "wood": 3203,
+            "stone": 3825,
+            "iron": 3203,
+            "pop": 31,
+            "points": 26
+        },
+        "17": {
+            "wood": 4036,
+            "stone": 4877,
+            "iron": 4036,
+            "pop": 36,
+            "points": 31
+        },
+        "18": {
+            "wood": 5085,
+            "stone": 6218,
+            "iron": 5085,
+            "pop": 42,
+            "points": 37
+        },
+        "19": {
+            "wood": 6407,
+            "stone": 7928,
+            "iron": 6407,
+            "pop": 49,
+            "points": 44
+        },
+        "20": {
+            "wood": 8073,
+            "stone": 10109,
+            "iron": 8073,
+            "pop": 57,
+            "points": 53
+        },
+        "21": {
+            "wood": 10172,
+            "stone": 12889,
+            "iron": 10172,
+            "pop": 67,
+            "points": 64
+        },
+        "22": {
+            "wood": 12817,
+            "stone": 16433,
+            "iron": 12817,
+            "pop": 79,
+            "points": 77
+        },
+        "23": {
+            "wood": 16149,
+            "stone": 20952,
+            "iron": 16149,
+            "pop": 92,
+            "points": 92
+        },
+        "24": {
+            "wood": 20348,
+            "stone": 26714,
+            "iron": 20348,
+            "pop": 107,
+            "points": 110
+        },
+        "25": {
+            "wood": 25639,
+            "stone": 34060,
+            "iron": 25639,
+            "pop": 126,
+            "points": 133
+        }
+    },
+    "wood": {
+        "1": {
+            "wood": 50,
+            "stone": 60,
+            "iron": 40,
+            "pop": 5,
+            "points": 6
+        },
+        "2": {
+            "wood": 63,
+            "stone": 77,
+            "iron": 50,
+            "pop": 1,
+            "points": 1
+        },
+        "3": {
+            "wood": 78,
+            "stone": 98,
+            "iron": 62,
+            "pop": 1,
+            "points": 2
+        },
+        "4": {
+            "wood": 98,
+            "stone": 124,
+            "iron": 77,
+            "pop": 1,
+            "points": 1
+        },
+        "5": {
+            "wood": 122,
+            "stone": 159,
+            "iron": 96,
+            "pop": 1,
+            "points": 2
+        },
+        "6": {
+            "wood": 153,
+            "stone": 202,
+            "iron": 120,
+            "pop": 1,
+            "points": 3
+        },
+        "7": {
+            "wood": 191,
+            "stone": 258,
+            "iron": 149,
+            "pop": 2,
+            "points": 3
+        },
+        "8": {
+            "wood": 238,
+            "stone": 329,
+            "iron": 185,
+            "pop": 2,
+            "points": 3
+        },
+        "9": {
+            "wood": 298,
+            "stone": 419,
+            "iron": 231,
+            "pop": 2,
+            "points": 5
+        },
+        "10": {
+            "wood": 373,
+            "stone": 534,
+            "iron": 287,
+            "pop": 2,
+            "points": 5
+        },
+        "11": {
+            "wood": 466,
+            "stone": 681,
+            "iron": 358,
+            "pop": 3,
+            "points": 6
+        },
+        "12": {
+            "wood": 582,
+            "stone": 868,
+            "iron": 446,
+            "pop": 3,
+            "points": 8
+        },
+        "13": {
+            "wood": 728,
+            "stone": 1107,
+            "iron": 555,
+            "pop": 4,
+            "points": 8
+        },
+        "14": {
+            "wood": 909,
+            "stone": 1412,
+            "iron": 691,
+            "pop": 5,
+            "points": 11
+        },
+        "15": {
+            "wood": 1137,
+            "stone": 1800,
+            "iron": 860,
+            "pop": 5,
+            "points": 13
+        },
+        "16": {
+            "wood": 1421,
+            "stone": 2295,
+            "iron": 1071,
+            "pop": 5,
+            "points": 15
+        },
+        "17": {
+            "wood": 1776,
+            "stone": 2926,
+            "iron": 1333,
+            "pop": 7,
+            "points": 19
+        },
+        "18": {
+            "wood": 2220,
+            "stone": 3731,
+            "iron": 1659,
+            "pop": 8,
+            "points": 22
+        },
+        "19": {
+            "wood": 2776,
+            "stone": 4757,
+            "iron": 2066,
+            "pop": 9,
+            "points": 27
+        },
+        "20": {
+            "wood": 3469,
+            "stone": 6065,
+            "iron": 2572,
+            "pop": 10,
+            "points": 32
+        },
+        "21": {
+            "wood": 4337,
+            "stone": 7733,
+            "iron": 3202,
+            "pop": 12,
+            "points": 38
+        },
+        "22": {
+            "wood": 5421,
+            "stone": 9860,
+            "iron": 3987,
+            "pop": 14,
+            "points": 46
+        },
+        "23": {
+            "wood": 6776,
+            "stone": 12571,
+            "iron": 4963,
+            "pop": 16,
+            "points": 55
+        },
+        "24": {
+            "wood": 8470,
+            "stone": 16028,
+            "iron": 6180,
+            "pop": 19,
+            "points": 66
+        },
+        "25": {
+            "wood": 10588,
+            "stone": 20436,
+            "iron": 7694,
+            "pop": 21,
+            "points": 80
+        },
+        "26": {
+            "wood": 13235,
+            "stone": 26056,
+            "iron": 9578,
+            "pop": 24,
+            "points": 95
+        },
+        "27": {
+            "wood": 16544,
+            "stone": 33221,
+            "iron": 11925,
+            "pop": 29,
+            "points": 115
+        },
+        "28": {
+            "wood": 20680,
+            "stone": 42357,
+            "iron": 14847,
+            "pop": 33,
+            "points": 137
+        },
+        "29": {
+            "wood": 25849,
+            "stone": 54005,
+            "iron": 18484,
+            "pop": 38,
+            "points": 165
+        },
+        "30": {
+            "wood": 32312,
+            "stone": 68857,
+            "iron": 23013,
+            "pop": 43,
+            "points": 198
+        }
+    },
+    "stone": {
+        "1": {
+            "wood": 65,
+            "stone": 50,
+            "iron": 40,
+            "pop": 10,
+            "points": 6
+        },
+        "2": {
+            "wood": 83,
+            "stone": 63,
+            "iron": 50,
+            "pop": 1,
+            "points": 1
+        },
+        "3": {
+            "wood": 105,
+            "stone": 80,
+            "iron": 62,
+            "pop": 2,
+            "points": 2
+        },
+        "4": {
+            "wood": 133,
+            "stone": 101,
+            "iron": 76,
+            "pop": 2,
+            "points": 1
+        },
+        "5": {
+            "wood": 169,
+            "stone": 128,
+            "iron": 95,
+            "pop": 2,
+            "points": 2
+        },
+        "6": {
+            "wood": 215,
+            "stone": 162,
+            "iron": 117,
+            "pop": 2,
+            "points": 3
+        },
+        "7": {
+            "wood": 273,
+            "stone": 205,
+            "iron": 145,
+            "pop": 3,
+            "points": 3
+        },
+        "8": {
+            "wood": 346,
+            "stone": 259,
+            "iron": 180,
+            "pop": 3,
+            "points": 3
+        },
+        "9": {
+            "wood": 440,
+            "stone": 328,
+            "iron": 224,
+            "pop": 4,
+            "points": 5
+        },
+        "10": {
+            "wood": 559,
+            "stone": 415,
+            "iron": 277,
+            "pop": 4,
+            "points": 5
+        },
+        "11": {
+            "wood": 709,
+            "stone": 525,
+            "iron": 344,
+            "pop": 4,
+            "points": 6
+        },
+        "12": {
+            "wood": 901,
+            "stone": 664,
+            "iron": 426,
+            "pop": 5,
+            "points": 8
+        },
+        "13": {
+            "wood": 1144,
+            "stone": 840,
+            "iron": 529,
+            "pop": 6,
+            "points": 8
+        },
+        "14": {
+            "wood": 1453,
+            "stone": 1062,
+            "iron": 655,
+            "pop": 7,
+            "points": 11
+        },
+        "15": {
+            "wood": 1846,
+            "stone": 1343,
+            "iron": 813,
+            "pop": 8,
+            "points": 13
+        },
+        "16": {
+            "wood": 2344,
+            "stone": 1700,
+            "iron": 1008,
+            "pop": 8,
+            "points": 15
+        },
+        "17": {
+            "wood": 2977,
+            "stone": 2150,
+            "iron": 1250,
+            "pop": 10,
+            "points": 19
+        },
+        "18": {
+            "wood": 3781,
+            "stone": 2720,
+            "iron": 1550,
+            "pop": 12,
+            "points": 22
+        },
+        "19": {
+            "wood": 4802,
+            "stone": 3440,
+            "iron": 1922,
+            "pop": 13,
+            "points": 27
+        },
+        "20": {
+            "wood": 6098,
+            "stone": 4352,
+            "iron": 2383,
+            "pop": 15,
+            "points": 32
+        },
+        "21": {
+            "wood": 7744,
+            "stone": 5505,
+            "iron": 2955,
+            "pop": 16,
+            "points": 38
+        },
+        "22": {
+            "wood": 9835,
+            "stone": 6964,
+            "iron": 3664,
+            "pop": 20,
+            "points": 46
+        },
+        "23": {
+            "wood": 12491,
+            "stone": 8810,
+            "iron": 4543,
+            "pop": 22,
+            "points": 55
+        },
+        "24": {
+            "wood": 15863,
+            "stone": 11144,
+            "iron": 5633,
+            "pop": 25,
+            "points": 66
+        },
+        "25": {
+            "wood": 20147,
+            "stone": 14098,
+            "iron": 6985,
+            "pop": 28,
+            "points": 80
+        },
+        "26": {
+            "wood": 25586,
+            "stone": 17833,
+            "iron": 8662,
+            "pop": 33,
+            "points": 95
+        },
+        "27": {
+            "wood": 32495,
+            "stone": 22559,
+            "iron": 10740,
+            "pop": 37,
+            "points": 115
+        },
+        "28": {
+            "wood": 41268,
+            "stone": 28537,
+            "iron": 13318,
+            "pop": 42,
+            "points": 137
+        },
+        "29": {
+            "wood": 52410,
+            "stone": 36100,
+            "iron": 16515,
+            "pop": 48,
+            "points": 165
+        },
+        "30": {
+            "wood": 66561,
+            "stone": 45666,
+            "iron": 20478,
+            "pop": 55,
+            "points": 198
+        }
+    },
+    "iron": {
+        "1": {
+            "wood": 75,
+            "stone": 65,
+            "iron": 70,
+            "pop": 10,
+            "points": 6
+        },
+        "2": {
+            "wood": 94,
+            "stone": 83,
+            "iron": 87,
+            "pop": 2,
+            "points": 1
+        },
+        "3": {
+            "wood": 118,
+            "stone": 106,
+            "iron": 108,
+            "pop": 2,
+            "points": 2
+        },
+        "4": {
+            "wood": 147,
+            "stone": 135,
+            "iron": 133,
+            "pop": 2,
+            "points": 1
+        },
+        "5": {
+            "wood": 184,
+            "stone": 172,
+            "iron": 165,
+            "pop": 3,
+            "points": 2
+        },
+        "6": {
+            "wood": 231,
+            "stone": 219,
+            "iron": 205,
+            "pop": 3,
+            "points": 3
+        },
+        "7": {
+            "wood": 289,
+            "stone": 279,
+            "iron": 254,
+            "pop": 4,
+            "points": 3
+        },
+        "8": {
+            "wood": 362,
+            "stone": 356,
+            "iron": 316,
+            "pop": 4,
+            "points": 3
+        },
+        "9": {
+            "wood": 453,
+            "stone": 454,
+            "iron": 391,
+            "pop": 5,
+            "points": 5
+        },
+        "10": {
+            "wood": 567,
+            "stone": 579,
+            "iron": 485,
+            "pop": 6,
+            "points": 5
+        },
+        "11": {
+            "wood": 710,
+            "stone": 738,
+            "iron": 602,
+            "pop": 7,
+            "points": 6
+        },
+        "12": {
+            "wood": 889,
+            "stone": 941,
+            "iron": 746,
+            "pop": 8,
+            "points": 8
+        },
+        "13": {
+            "wood": 1113,
+            "stone": 1200,
+            "iron": 925,
+            "pop": 10,
+            "points": 8
+        },
+        "14": {
+            "wood": 1393,
+            "stone": 1529,
+            "iron": 1147,
+            "pop": 11,
+            "points": 11
+        },
+        "15": {
+            "wood": 1744,
+            "stone": 1950,
+            "iron": 1422,
+            "pop": 13,
+            "points": 13
+        },
+        "16": {
+            "wood": 2183,
+            "stone": 2486,
+            "iron": 1764,
+            "pop": 15,
+            "points": 15
+        },
+        "17": {
+            "wood": 2734,
+            "stone": 3170,
+            "iron": 2187,
+            "pop": 18,
+            "points": 19
+        },
+        "18": {
+            "wood": 3422,
+            "stone": 4042,
+            "iron": 2712,
+            "pop": 21,
+            "points": 22
+        },
+        "19": {
+            "wood": 4285,
+            "stone": 5153,
+            "iron": 3363,
+            "pop": 25,
+            "points": 27
+        },
+        "20": {
+            "wood": 5365,
+            "stone": 6571,
+            "iron": 4170,
+            "pop": 28,
+            "points": 32
+        },
+        "21": {
+            "wood": 6717,
+            "stone": 8378,
+            "iron": 5170,
+            "pop": 34,
+            "points": 38
+        },
+        "22": {
+            "wood": 8409,
+            "stone": 10681,
+            "iron": 6411,
+            "pop": 39,
+            "points": 46
+        },
+        "23": {
+            "wood": 10528,
+            "stone": 13619,
+            "iron": 7950,
+            "pop": 46,
+            "points": 55
+        },
+        "24": {
+            "wood": 13181,
+            "stone": 17364,
+            "iron": 9858,
+            "pop": 54,
+            "points": 66
+        },
+        "25": {
+            "wood": 16503,
+            "stone": 22139,
+            "iron": 12224,
+            "pop": 63,
+            "points": 80
+        },
+        "26": {
+            "wood": 20662,
+            "stone": 28227,
+            "iron": 15158,
+            "pop": 74,
+            "points": 95
+        },
+        "27": {
+            "wood": 25869,
+            "stone": 35990,
+            "iron": 18796,
+            "pop": 86,
+            "points": 115
+        },
+        "28": {
+            "wood": 32388,
+            "stone": 45887,
+            "iron": 23307,
+            "pop": 100,
+            "points": 137
+        },
+        "29": {
+            "wood": 40549,
+            "stone": 58506,
+            "iron": 28900,
+            "pop": 118,
+            "points": 165
+        },
+        "30": {
+            "wood": 50768,
+            "stone": 74595,
+            "iron": 35837,
+            "pop": 138,
+            "points": 198
+        }
+    },
+    "farm": {
+        "1": {
+            "wood": 45,
+            "stone": 40,
+            "iron": 30,
+            "pop": 0,
+            "points": 5
+        },
+        "2": {
+            "wood": 59,
+            "stone": 53,
+            "iron": 39,
+            "pop": 0,
+            "points": 1
+        },
+        "3": {
+            "wood": 76,
+            "stone": 70,
+            "iron": 50,
+            "pop": 0,
+            "points": 1
+        },
+        "4": {
+            "wood": 99,
+            "stone": 92,
+            "iron": 64,
+            "pop": 0,
+            "points": 2
+        },
+        "5": {
+            "wood": 129,
+            "stone": 121,
+            "iron": 83,
+            "pop": 0,
+            "points": 1
+        },
+        "6": {
+            "wood": 167,
+            "stone": 160,
+            "iron": 107,
+            "pop": 0,
+            "points": 2
+        },
+        "7": {
+            "wood": 217,
+            "stone": 212,
+            "iron": 138,
+            "pop": 0,
+            "points": 3
+        },
+        "8": {
+            "wood": 282,
+            "stone": 279,
+            "iron": 178,
+            "pop": 0,
+            "points": 3
+        },
+        "9": {
+            "wood": 367,
+            "stone": 369,
+            "iron": 230,
+            "pop": 0,
+            "points": 3
+        },
+        "10": {
+            "wood": 477,
+            "stone": 487,
+            "iron": 297,
+            "pop": 0,
+            "points": 5
+        },
+        "11": {
+            "wood": 620,
+            "stone": 642,
+            "iron": 383,
+            "pop": 0,
+            "points": 5
+        },
+        "12": {
+            "wood": 806,
+            "stone": 848,
+            "iron": 494,
+            "pop": 0,
+            "points": 6
+        },
+        "13": {
+            "wood": 1048,
+            "stone": 1119,
+            "iron": 637,
+            "pop": 0,
+            "points": 8
+        },
+        "14": {
+            "wood": 1363,
+            "stone": 1477,
+            "iron": 822,
+            "pop": 0,
+            "points": 8
+        },
+        "15": {
+            "wood": 1772,
+            "stone": 1950,
+            "iron": 1060,
+            "pop": 0,
+            "points": 11
+        },
+        "16": {
+            "wood": 2303,
+            "stone": 2574,
+            "iron": 1368,
+            "pop": 0,
+            "points": 13
+        },
+        "17": {
+            "wood": 2994,
+            "stone": 3398,
+            "iron": 1764,
+            "pop": 0,
+            "points": 15
+        },
+        "18": {
+            "wood": 3893,
+            "stone": 4486,
+            "iron": 2276,
+            "pop": 0,
+            "points": 19
+        },
+        "19": {
+            "wood": 5060,
+            "stone": 5921,
+            "iron": 2936,
+            "pop": 0,
+            "points": 22
+        },
+        "20": {
+            "wood": 6579,
+            "stone": 7816,
+            "iron": 3787,
+            "pop": 0,
+            "points": 27
+        },
+        "21": {
+            "wood": 8552,
+            "stone": 10317,
+            "iron": 4886,
+            "pop": 0,
+            "points": 32
+        },
+        "22": {
+            "wood": 11118,
+            "stone": 13618,
+            "iron": 6302,
+            "pop": 0,
+            "points": 38
+        },
+        "23": {
+            "wood": 14453,
+            "stone": 17976,
+            "iron": 8130,
+            "pop": 0,
+            "points": 46
+        },
+        "24": {
+            "wood": 18789,
+            "stone": 23728,
+            "iron": 10488,
+            "pop": 0,
+            "points": 55
+        },
+        "25": {
+            "wood": 24426,
+            "stone": 31321,
+            "iron": 13529,
+            "pop": 0,
+            "points": 66
+        },
+        "26": {
+            "wood": 31754,
+            "stone": 41344,
+            "iron": 17453,
+            "pop": 0,
+            "points": 80
+        },
+        "27": {
+            "wood": 41280,
+            "stone": 54574,
+            "iron": 22514,
+            "pop": 0,
+            "points": 95
+        },
+        "28": {
+            "wood": 53664,
+            "stone": 72037,
+            "iron": 29043,
+            "pop": 0,
+            "points": 115
+        },
+        "29": {
+            "wood": 69763,
+            "stone": 95089,
+            "iron": 37466,
+            "pop": 0,
+            "points": 137
+        },
+        "30": {
+            "wood": 90692,
+            "stone": 125517,
+            "iron": 48331,
+            "pop": 0,
+            "points": 165
+        }
+    },
+    "storage": {
+        "1": {
+            "wood": 60,
+            "stone": 50,
+            "iron": 40,
+            "pop": 0,
+            "points": 6
+        },
+        "2": {
+            "wood": 76,
+            "stone": 64,
+            "iron": 50,
+            "pop": 0,
+            "points": 1
+        },
+        "3": {
+            "wood": 96,
+            "stone": 81,
+            "iron": 62,
+            "pop": 0,
+            "points": 2
+        },
+        "4": {
+            "wood": 121,
+            "stone": 102,
+            "iron": 77,
+            "pop": 0,
+            "points": 1
+        },
+        "5": {
+            "wood": 154,
+            "stone": 130,
+            "iron": 96,
+            "pop": 0,
+            "points": 2
+        },
+        "6": {
+            "wood": 194,
+            "stone": 165,
+            "iron": 120,
+            "pop": 0,
+            "points": 3
+        },
+        "7": {
+            "wood": 246,
+            "stone": 210,
+            "iron": 149,
+            "pop": 0,
+            "points": 3
+        },
+        "8": {
+            "wood": 311,
+            "stone": 266,
+            "iron": 185,
+            "pop": 0,
+            "points": 3
+        },
+        "9": {
+            "wood": 393,
+            "stone": 338,
+            "iron": 231,
+            "pop": 0,
+            "points": 5
+        },
+        "10": {
+            "wood": 498,
+            "stone": 430,
+            "iron": 287,
+            "pop": 0,
+            "points": 5
+        },
+        "11": {
+            "wood": 630,
+            "stone": 546,
+            "iron": 358,
+            "pop": 0,
+            "points": 6
+        },
+        "12": {
+            "wood": 796,
+            "stone": 693,
+            "iron": 446,
+            "pop": 0,
+            "points": 8
+        },
+        "13": {
+            "wood": 1007,
+            "stone": 880,
+            "iron": 555,
+            "pop": 0,
+            "points": 8
+        },
+        "14": {
+            "wood": 1274,
+            "stone": 1118,
+            "iron": 691,
+            "pop": 0,
+            "points": 11
+        },
+        "15": {
+            "wood": 1612,
+            "stone": 1420,
+            "iron": 860,
+            "pop": 0,
+            "points": 13
+        },
+        "16": {
+            "wood": 2039,
+            "stone": 1803,
+            "iron": 1071,
+            "pop": 0,
+            "points": 15
+        },
+        "17": {
+            "wood": 2580,
+            "stone": 2290,
+            "iron": 1333,
+            "pop": 0,
+            "points": 19
+        },
+        "18": {
+            "wood": 3264,
+            "stone": 2908,
+            "iron": 1659,
+            "pop": 0,
+            "points": 22
+        },
+        "19": {
+            "wood": 4128,
+            "stone": 3693,
+            "iron": 2066,
+            "pop": 0,
+            "points": 27
+        },
+        "20": {
+            "wood": 5222,
+            "stone": 4691,
+            "iron": 2572,
+            "pop": 0,
+            "points": 32
+        },
+        "21": {
+            "wood": 6606,
+            "stone": 5957,
+            "iron": 3202,
+            "pop": 0,
+            "points": 38
+        },
+        "22": {
+            "wood": 8357,
+            "stone": 7566,
+            "iron": 3987,
+            "pop": 0,
+            "points": 46
+        },
+        "23": {
+            "wood": 10572,
+            "stone": 9608,
+            "iron": 4963,
+            "pop": 0,
+            "points": 55
+        },
+        "24": {
+            "wood": 13373,
+            "stone": 12203,
+            "iron": 6180,
+            "pop": 0,
+            "points": 66
+        },
+        "25": {
+            "wood": 16917,
+            "stone": 15497,
+            "iron": 7694,
+            "pop": 0,
+            "points": 80
+        },
+        "26": {
+            "wood": 21400,
+            "stone": 19682,
+            "iron": 9578,
+            "pop": 0,
+            "points": 95
+        },
+        "27": {
+            "wood": 27071,
+            "stone": 24996,
+            "iron": 11925,
+            "pop": 0,
+            "points": 115
+        },
+        "28": {
+            "wood": 34245,
+            "stone": 31745,
+            "iron": 14847,
+            "pop": 0,
+            "points": 137
+        },
+        "29": {
+            "wood": 43320,
+            "stone": 40316,
+            "iron": 18484,
+            "pop": 0,
+            "points": 165
+        },
+        "30": {
+            "wood": 54799,
+            "stone": 51201,
+            "iron": 23013,
+            "pop": 0,
+            "points": 198
+        }
+    },
+    "hide": {
+        "1": {
+            "wood": 50,
+            "stone": 60,
+            "iron": 50,
+            "pop": 2,
+            "points": 5
+        },
+        "2": {
+            "wood": 63,
+            "stone": 75,
+            "iron": 63,
+            "pop": 0,
+            "points": 1
+        },
+        "3": {
+            "wood": 78,
+            "stone": 94,
+            "iron": 78,
+            "pop": 1,
+            "points": 1
+        },
+        "4": {
+            "wood": 98,
+            "stone": 117,
+            "iron": 98,
+            "pop": 0,
+            "points": 2
+        },
+        "5": {
+            "wood": 122,
+            "stone": 146,
+            "iron": 122,
+            "pop": 1,
+            "points": 1
+        },
+        "6": {
+            "wood": 153,
+            "stone": 183,
+            "iron": 153,
+            "pop": 0,
+            "points": 2
+        },
+        "7": {
+            "wood": 191,
+            "stone": 229,
+            "iron": 191,
+            "pop": 1,
+            "points": 3
+        },
+        "8": {
+            "wood": 238,
+            "stone": 286,
+            "iron": 238,
+            "pop": 1,
+            "points": 3
+        },
+        "9": {
+            "wood": 298,
+            "stone": 358,
+            "iron": 298,
+            "pop": 1,
+            "points": 3
+        },
+        "10": {
+            "wood": 373,
+            "stone": 447,
+            "iron": 373,
+            "pop": 1,
+            "points": 5
+        }
+    },
+    "wall": {
+        "1": {
+            "wood": 50,
+            "stone": 100,
+            "iron": 20,
+            "pop": 5,
+            "points": 8
+        },
+        "2": {
+            "wood": 63,
+            "stone": 128,
+            "iron": 25,
+            "pop": 1,
+            "points": 2
+        },
+        "3": {
+            "wood": 79,
+            "stone": 163,
+            "iron": 32,
+            "pop": 1,
+            "points": 2
+        },
+        "4": {
+            "wood": 100,
+            "stone": 207,
+            "iron": 40,
+            "pop": 1,
+            "points": 2
+        },
+        "5": {
+            "wood": 126,
+            "stone": 264,
+            "iron": 50,
+            "pop": 1,
+            "points": 3
+        },
+        "6": {
+            "wood": 159,
+            "stone": 337,
+            "iron": 64,
+            "pop": 2,
+            "points": 3
+        },
+        "7": {
+            "wood": 200,
+            "stone": 430,
+            "iron": 80,
+            "pop": 2,
+            "points": 4
+        },
+        "8": {
+            "wood": 252,
+            "stone": 548,
+            "iron": 101,
+            "pop": 2,
+            "points": 5
+        },
+        "9": {
+            "wood": 318,
+            "stone": 698,
+            "iron": 127,
+            "pop": 3,
+            "points": 5
+        },
+        "10": {
+            "wood": 400,
+            "stone": 890,
+            "iron": 160,
+            "pop": 3,
+            "points": 7
+        },
+        "11": {
+            "wood": 504,
+            "stone": 1135,
+            "iron": 202,
+            "pop": 3,
+            "points": 9
+        },
+        "12": {
+            "wood": 635,
+            "stone": 1447,
+            "iron": 254,
+            "pop": 4,
+            "points": 9
+        },
+        "13": {
+            "wood": 801,
+            "stone": 1846,
+            "iron": 320,
+            "pop": 5,
+            "points": 12
+        },
+        "14": {
+            "wood": 1009,
+            "stone": 2353,
+            "iron": 404,
+            "pop": 5,
+            "points": 15
+        },
+        "15": {
+            "wood": 1271,
+            "stone": 3000,
+            "iron": 508,
+            "pop": 7,
+            "points": 17
+        },
+        "16": {
+            "wood": 1602,
+            "stone": 3825,
+            "iron": 641,
+            "pop": 8,
+            "points": 20
+        },
+        "17": {
+            "wood": 2018,
+            "stone": 4877,
+            "iron": 807,
+            "pop": 9,
+            "points": 25
+        },
+        "18": {
+            "wood": 2543,
+            "stone": 6218,
+            "iron": 1017,
+            "pop": 10,
+            "points": 29
+        },
+        "19": {
+            "wood": 3204,
+            "stone": 7928,
+            "iron": 1281,
+            "pop": 12,
+            "points": 36
+        },
+        "20": {
+            "wood": 4037,
+            "stone": 10109,
+            "iron": 1615,
+            "pop": 15,
+            "points": 43
+        }
+    }
+}
